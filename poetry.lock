@@ -464,7 +464,7 @@ speed = ["orjson"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = ">=3.10.0,<4.0"
+python-versions = ">=3.8.10,<4.0"
 content-hash = "618303232415dbf5c3270fa914a6bbcd2e95a9607c7bbfa8e2dc95fd64cb20c4"
 
 [metadata.files]
